@@ -1,5 +1,6 @@
-Call me Tobi
-they/it - zij/het
+🔴 mentions
+🟡 interactions
+🟢 explorations
 
 <!---
 TobiT-Grassington/TobiT-Grassington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
